@@ -1,0 +1,14 @@
+streamlit>=1.35
+xarray>=2024.3
+netCDF4
+dask
+gdown
+pandas
+numpy
+openpyxl
+matplotlib
+cartopy
+geopandas
+regionmask
+shapely
+pyproj
